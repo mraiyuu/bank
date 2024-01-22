@@ -26,7 +26,7 @@ const App = () => (
         Testimonions
         Clients
         CTA
-        Footer
+        Footers
       </div>
     </div>
 
